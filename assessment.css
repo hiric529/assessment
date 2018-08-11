@@ -1,0 +1,17 @@
+ボディ {
+    背景色：＃04A6EB ;
+    色： #FDFFFF ;
+    幅： 500 ピクセル。
+    margin-right： auto ;
+    margin-left： auto ;
+  }
+  ボタン {
+    パディング： 5 px  20 px ;
+    背景色：＃337AB7 ;
+    色： #FDFFFF ;
+    border-color：＃2E6DA4 ;
+    border-style：なし ;
+  }
+  入力 {
+    高さ： 20 ピクセル。
+  }
